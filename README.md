@@ -17,11 +17,13 @@
    
    ## Installation
    
-   Install the node modules by opening up the terminal and typing "npm i".
+   N/A
    
    ## Usage
    
-   
+   When the page is open, type in a title and a description for the note and then click save note.
+
+   ![Landing page Note Taker](./assets/screenshot.png)
    
    ## License
    
@@ -33,7 +35,7 @@
 
    ## Tests
 
-   
+   N/A
 
    ## Questions
 
